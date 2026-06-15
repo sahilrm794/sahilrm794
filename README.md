@@ -101,8 +101,6 @@
 </p>
 
 ---
-
-<br/>
 <p>
 <video width="350" controls>
   <source src="assets/contextqa.mp4" type="video/mp4">
