@@ -79,7 +79,9 @@
 
 
 <p>
-<img align="left" src="assets/vaanisetu.gif" width="350" />
+<video width="350" controls>
+  <source src="assets/vaanisetu.mp4" type="video/mp4">
+</video>
 
 ### **   VaaniSetu – Real-Time Voice E-commerce Support Agent**
 
@@ -102,7 +104,9 @@
 
 <br/>
 <p>
-<img align="left" src="assets/contextqa.gif" width="350" />
+<video width="350" controls>
+  <source src="assets/contextqa.mp4" type="video/mp4">
+</video>
   
 ###  **&nbsp;&nbsp;&nbsp;ContextQA Conversational RAG System** 
 &nbsp;&nbsp;&nbsp;🔗 [*Repo*](https://github.com/sahilrm794/Context_QA) | [*Demo*](https://drive.google.com/file/d/1I7dswLJFc20hcFfdN4d2iJTMY_x18loH/view)
@@ -129,7 +133,9 @@
 
 ---
 <p>
-<img align="left" src="assets/leetcode-helper.gif" width="350" />
+<video width="350" controls>
+  <source src="assets/leetcode-helper.mp4" type="video/mp4">
+</video>
 
 <p>
 
